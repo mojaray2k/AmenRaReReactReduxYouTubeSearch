@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "amenrareReactreduxyoutubesearch",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A simple React Application that allows the user to search for videos using the Youtube API",
   "main": "index.js",
-  "repository": "git@github.com:mojaray2k/AmenRaReduxSimpleStarter.git",
+  "repository": "git@github.com:mojaray2k/AmenRaReReactReduxYouTubeSearch.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",

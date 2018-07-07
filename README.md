@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/mojaray2k/AmenRaReReactReduxYouTubeSearch.git
-> cd AmenRaReduxSimpleStarter
+> cd AmenRaReReactReduxYouTubeSearch
 > npm install
 > npm start
 ```
